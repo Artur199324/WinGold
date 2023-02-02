@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "426751155076",
+    "firebase_url": "https://world-cup-playing-the-best-default-rtdb.firebaseio.com",
+    "project_id": "world-cup-playing-the-best",
+    "storage_bucket": "world-cup-playing-the-best.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426751155076:android:934567f98b54c02dc09bd1",
+        "android_client_info": {
+          "package_name": "com.poomgames.catfore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426751155076-apmd72bqgjc3hq58h6vqjtuadvrci7ad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgECKDtKci_qU9jQvEY4AMLDkmGy72o4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "426751155076-apmd72bqgjc3hq58h6vqjtuadvrci7ad.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
